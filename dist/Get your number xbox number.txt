@@ -1,0 +1,5 @@
+go to https://www.gamertagnation.com/
+search for your gamertag and click on it
+https://www.gamertagnation.com/member.php?u=YOURNUMBER&do=gamertag
+
+Put it on the extractor and it will extract all your games on a .txt list 
